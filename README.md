@@ -7,12 +7,14 @@ This repository contains my work for Machine Problem 1 (MP1) and Machine Problem
 ### MP1: Device Query and Basic Matrix Multiplication
 - Part 1: Device query to identify GPU capabilities (clock rate, memory, threads, etc.)
 - Part 2: Implementation of a basic GPU matrix multiplication kernel with performance analysis
+  
     - Data transfer time measurements (host-to-device and device-to-host)
     - CPU vs GPU performance comparison
     - Thread/block configuration experiments
 
 ### MP2: Optimized Tiled Matrix Multiplication
 - Part 1: Implementation of a shared memory (tiled) matrix multiplication kernel
+  
     - Performance analysis with different tile sizes (2, 4, 8, 16, 32)
     - Comparison with MP1 baseline implementation
 
