@@ -27,18 +27,3 @@ All work was completed on one of the following GPU machines:
 All machines run:
   - Visual Studio 2022
   - CUDA 12.2
-
-## Repository Structure
-ELEC374-Machine-Problems/
-│
-├── MP1/
-│   ├── MP1_Part1.cu       # Device query implementation
-│   ├── MP1_Part2.cu       # Basic matrix multiplication
-│   └── MP1_Report.pdf     # Analysis and results
-│
-├── MP2/
-│   ├── MP2_Part1.cu       # Tiled matrix multiplication
-│   ├── MP2_Part2.cu       # Boundary-checked version (bonus)
-│   └── MP2_Report.pdf     # Analysis and results
-│
-└── README.md              # This file
